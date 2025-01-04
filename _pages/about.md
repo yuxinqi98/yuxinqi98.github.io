@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.pubtitle{
+    background: #BD666D;
+    color: white;
+    font-size: 13.5px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 10px;
+    float: left;
+    font-weight: bold;
+}
+.font-bold{
+    font-weight:bold;
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -28,7 +43,7 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-1. <div class="pubtitle">AAAI24</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>, Quan Zhang, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b> [[paper](https://github.com/yuxinqi98)]
+1. <div class="pubtitle">AAAI24</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>, Quan Zhang, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
 
 
