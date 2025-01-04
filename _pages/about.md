@@ -28,7 +28,7 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-1. <div class="pubtitle">AAAI24</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>, Quan Zhang, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b> [[paper](https://github.com/gongchenooo)]
+1. <div class="pubtitle">AAAI24</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>, Quan Zhang, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b> [[paper](https://github.com/yuxinqi98)]
 
 
 
