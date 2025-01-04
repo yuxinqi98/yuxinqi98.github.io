@@ -43,11 +43,11 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-* means contribution equally
+\* means contribution equally
 
 1. <div class="pubtitle">AAAI24</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>, Quan Zhang, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
-2. <div class="pubtitle">AAAI24</div> &nbsp; <b>Rethinking Pseudo-Label Guided Learning for Weakly-Supervised Temporal Action Localization from the Perspective of Noise Correction.</b> <br /> Quan Zhang*, <u><b>Yuxin Qi</b></u>*, Xi Tang, Rui Yuan, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
+2. <div class="pubtitle">AAAI24</div> &nbsp; <b>Rethinking Pseudo-Label Guided Learning for Weakly-Supervised Temporal Action Localization from the Perspective of Noise Correction.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Rui Yuan, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
 3. <div class="pubtitle">IEEE TPAMI</div> &nbsp; <b>Blockchain Data Mining with Graph Learning: A Survey.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Hansong Xu, Mohsen Guizani. <br /> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> <b>CCF-A.</b>
 
@@ -70,7 +70,6 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 12. <div class="pubtitle">Preprint</div> &nbsp; <b>SRTFD: Scalable Real-Time Fault Diagnosis through Online Continual Learning. </b> <br /> Dandan Zhao, Karthick Sharma, <u><b>Yuxin Qi</b></u>, Shuhao Zhang. <br /> <i>Under Review.</i>
 
 13. <div class="pubtitle">Preprint</div> &nbsp; <b>GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Qinghua Mao. <br /> <i>Under Review.</i>
-
 
 
 # 🎖 Honors and Awards
