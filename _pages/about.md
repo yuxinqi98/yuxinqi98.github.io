@@ -43,34 +43,36 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+1. <div class="pubtitle">AAAI25</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>\*, Quan Zhang\*, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
+
+2. <div class="pubtitle">AAAI25</div> &nbsp; <b>Rethinking Pseudo-Label Guided Learning for Weakly-Supervised Temporal Action Localization from the Perspective of Noise Correction.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Rui Yuan, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
+
+3. <div class="pubtitle">ICLR25</div> &nbsp; <b>IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Jinwei Fang, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The Thirteenth International Conference on Learning Representations.</i>
+
+4. <div class="pubtitle">IEEE TPAMI</div> &nbsp; <b>Blockchain Data Mining with Graph Learning: A Survey.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Hansong Xu, Mohsen Guizani. <br /> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> <b>CCF-A.</b>
+
+5. <div class="pubtitle">IEEE TITS</div> &nbsp; <b>Privacy-Preserving Cross-Area Traffic Forecasting in ITS: A Transferable Spatial-Temporal Graph Neural Network Approach.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Ali Kashif Bashir, Xi Lin, Wu Yang, Mohammad Dahman Alshehri. <br /> <i>IEEE Transactions on Intelligent Transportation Systems.</i> <b>CCF-B.</b>
+
+6. <div class="pubtitle">IEEE SysJ</div> &nbsp; <b>Game-Aided Blockchain Twin for Incentive and Relay-Free Model Sharing in Heterogeneous Chain-Driven Swarm Learning.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jun Wu, Yunyun Han. <br /> <i>IEEE Systems Journal.</i>
+
+7. <div class="pubtitle">WWW24</div> &nbsp; <b>LinkGuard: Link Locally Privacy-Preserving Graph Neural Networks with Integrated Denoising and Private Learning.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Ziyao Liu, Gaolei Li, Jingyu Wang, Jianhua Li. <br /> <i>Companion Proceedings of the ACM on Web Conference 2024.</i>
+
+8. <div class="pubtitle">WWW24</div> &nbsp; <b>Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining.</b> <br /> Jingyu Wang, Niantai Jing, Ziyao Liu, Jie Nie, <u><b>Yuxin Qi</b></u>, Chi-Hung Chi, Kwok-Yan Lam. <br /> <i>Companion Proceedings of the ACM on Web Conference 2024.</i>
+
+9. <div class="pubtitle">ISPA23</div> &nbsp; <b>Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification. </b> <br /> Qinghua Mao, Xi Lin, Gaolei Li, Lixing Chen, Yuchen Liu, <u><b>Yuxin Qi</b></u>, Jianhua Li. <br /> <i>2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom).</i> <b>CCF-C.</b>
+
+10. <div class="pubtitle">WCNC24</div> &nbsp; <b>Local Differential Private Spatio-Temporal Dynamic Graph Learning for Wireless Social Networks. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Gaolei Li, Chaofeng Zhang, Jianhua Li. <br /> <i>IEEE Wireless Communications and Networking Conference.</i> <b>CCF-C.</b>
+
+11. <div class="pubtitle">Preprint</div> &nbsp; <b>Differentially Private Graph Neural Network with Importance-Grained Noise Adaption. </b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jun Wu. <br /> <i>Under Review.</i>
+
+12. <div class="pubtitle">Preprint</div> &nbsp; <b>Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?. </b> <br /> Quan Zhang, <u><b>Yuxin Qi</b></u>. <br /> <i>Under Review.</i>
+
+13. <div class="pubtitle">Preprint</div> &nbsp; <b>SRTFD: Scalable Real-Time Fault Diagnosis through Online Continual Learning. </b> <br /> Dandan Zhao, Karthick Sharma, <u><b>Yuxin Qi</b></u>, Shuhao Zhang. <br /> <i>Under Review.</i>
+
+14. <div class="pubtitle">Preprint</div> &nbsp; <b>GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Qinghua Mao. <br /> <i>Under Review.</i>
+
 \* means contribution equally
-
-1. <div class="pubtitle">AAAI24</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>\*, Quan Zhang\*, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
-
-2. <div class="pubtitle">AAAI24</div> &nbsp; <b>Rethinking Pseudo-Label Guided Learning for Weakly-Supervised Temporal Action Localization from the Perspective of Noise Correction.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Rui Yuan, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
-
-3. <div class="pubtitle">IEEE TPAMI</div> &nbsp; <b>Blockchain Data Mining with Graph Learning: A Survey.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Hansong Xu, Mohsen Guizani. <br /> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> <b>CCF-A.</b>
-
-4. <div class="pubtitle">IEEE TITS</div> &nbsp; <b>Privacy-Preserving Cross-Area Traffic Forecasting in ITS: A Transferable Spatial-Temporal Graph Neural Network Approach.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Ali Kashif Bashir, Xi Lin, Wu Yang, Mohammad Dahman Alshehri. <br /> <i>IEEE Transactions on Intelligent Transportation Systems.</i> <b>CCF-B.</b>
-
-5. <div class="pubtitle">IEEE SysJ</div> &nbsp; <b>Game-Aided Blockchain Twin for Incentive and Relay-Free Model Sharing in Heterogeneous Chain-Driven Swarm Learning.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jun Wu, Yunyun Han. <br /> <i>IEEE Systems Journal.</i>
-
-6. <div class="pubtitle">WWW24</div> &nbsp; <b>LinkGuard: Link Locally Privacy-Preserving Graph Neural Networks with Integrated Denoising and Private Learning.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Ziyao Liu, Gaolei Li, Jingyu Wang, Jianhua Li. <br /> <i>Companion Proceedings of the ACM on Web Conference 2024.</i>
-
-7. <div class="pubtitle">WWW24</div> &nbsp; <b>Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining.</b> <br /> Jingyu Wang, Niantai Jing, Ziyao Liu, Jie Nie, <u><b>Yuxin Qi</b></u>, Chi-Hung Chi, Kwok-Yan Lam. <br /> <i>Companion Proceedings of the ACM on Web Conference 2024.</i>
-
-8. <div class="pubtitle">ISPA23</div> &nbsp; <b>Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification. </b> <br /> Qinghua Mao, Xi Lin, Gaolei Li, Lixing Chen, Yuchen Liu, <u><b>Yuxin Qi</b></u>, Jianhua Li. <br /> <i>2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom).</i> <b>CCF-C.</b>
-
-9. <div class="pubtitle">WCNC24</div> &nbsp; <b>Local Differential Private Spatio-Temporal Dynamic Graph Learning for Wireless Social Networks. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Gaolei Li, Chaofeng Zhang, Jianhua Li. <br /> <i>IEEE Wireless Communications and Networking Conference.</i> <b>CCF-C.</b>
-
-10. <div class="pubtitle">Preprint</div> &nbsp; <b>Differentially Private Graph Neural Network with Importance-Grained Noise Adaption. </b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jun Wu. <br /> <i>Under Review.</i>
-
-11. <div class="pubtitle">Preprint</div> &nbsp; <b>Can MLLMs Guide Weakly-Supervised Temporal Action Localization Tasks?. </b> <br /> Quan Zhang, <u><b>Yuxin Qi</b></u>. <br /> <i>Under Review.</i>
-
-12. <div class="pubtitle">Preprint</div> &nbsp; <b>SRTFD: Scalable Real-Time Fault Diagnosis through Online Continual Learning. </b> <br /> Dandan Zhao, Karthick Sharma, <u><b>Yuxin Qi</b></u>, Shuhao Zhang. <br /> <i>Under Review.</i>
-
-13. <div class="pubtitle">Preprint</div> &nbsp; <b>GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Qinghua Mao. <br /> <i>Under Review.</i>
-
 
 # 🎖 Honors and Awards
 - *2017* National Scholarship. 
