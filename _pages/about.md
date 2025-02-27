@@ -50,7 +50,7 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 
 3. <div class="pubtitle">ICLR25</div> &nbsp; <b>IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Jinwei Fang, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The Thirteenth International Conference on Learning Representations.</i>
 
-4. <div class="pubtitle">CVPR25</div> &nbsp; <b>Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models.</b> <br /> Quan Zhang, Jinwei Fang, Rui Yuan, Xi Tang, <u><b>Yuxin Qi</b></u>\*, Ke Zhang, Chun Yuan. <br /> <i>Conference on Computer Vision and Pattern Recognition 2025.</i> <b>CCF-A.</b>
+4. <div class="pubtitle">CVPR25</div> &nbsp; <b>Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models.</b> <br /> Quan Zhang, Jinwei Fang, Rui Yuan, Xi Tang, <u><b>Yuxin Qi</b></u>, Ke Zhang, Chun Yuan. <br /> <i>Conference on Computer Vision and Pattern Recognition 2025.</i> <b>CCF-A.</b>
 
 5. <div class="pubtitle">IEEE TIFS25</div> &nbsp; <b>FeCoGraph: Label-Aware Federated Graph Contrastive Learning for Few-Shot Network Intrusion Detection. </b> <br /> Qinghua Mao, Xi Lin, Wenchao Xu, <u><b>Yuxin Qi</b></u>, Xiu Su, Gaolei Li, Jianhua Li. <br /> <i>IEEE Transactions on Information Forensics & Security.</i> <b>CCF-A.</b>
 
