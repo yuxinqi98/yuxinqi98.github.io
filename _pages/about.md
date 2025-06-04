@@ -6,7 +6,24 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
+
+<style>
+.pubtitle{
+    background: #BD666D;
+    color: white;
+    font-size: 13.5px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 10px;
+    float: left;
+    font-weight: bold;
+}
+.font-bold{
+    font-weight:bold;
+}
+</style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -17,42 +34,64 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a fifth-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on data privacy, anomaly detection, blockchain analysis, and other intersections between security and machine learning. 
 
+# 📖 Educations
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Now*, Ph.D. Student, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. 
+- *2016.09 - 2020.06*, Computer Science, Jilin University. 
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. <div class="pubtitle">AAAI25</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>\*, Quan Zhang\*, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+2. <div class="pubtitle">AAAI25</div> &nbsp; <b>Rethinking Pseudo-Label Guided Learning for Weakly-Supervised Temporal Action Localization from the Perspective of Noise Correction.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Rui Yuan, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+3. <div class="pubtitle">ICLR25</div> &nbsp; <b>IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Jinwei Fang, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The Thirteenth International Conference on Learning Representations.</i>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+4. <div class="pubtitle">CVPR25</div> &nbsp; <b>Weakly Supervised Temporal Action Localization via Dual-Prior Collaborative Learning Guided by Multimodal Large Language Models.</b> <br /> Quan Zhang, Jinwei Fang, Rui Yuan, Xi Tang, <u><b>Yuxin Qi</b></u>, Ke Zhang, Chun Yuan. <br /> <i>Conference on Computer Vision and Pattern Recognition 2025.</i> <b>CCF-A.</b>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+5. <div class="pubtitle">ICDE25</div> &nbsp; <b>Scalable Machine Learning for Real-Time Fault Diagnosis in Industrial IoT Cooling Roller Systems.</b> <br /> Dandan Zhao, Karthick Sharma, <u><b>Yuxin Qi</b></u>, Qixun Liu, Shuhao Zhang. <br /> <i>2025 IEEE 41st International Conference on Data Engineering.</i> <b>CCF-A.</b>
+
+6. <div class="pubtitle">IEEE TIFS25</div> &nbsp; <b>FeCoGraph: Label-Aware Federated Graph Contrastive Learning for Few-Shot Network Intrusion Detection. </b> <br /> Qinghua Mao, Xi Lin, Wenchao Xu, <u><b>Yuxin Qi</b></u>, Xiu Su, Gaolei Li, Jianhua Li. <br /> <i>IEEE Transactions on Information Forensics & Security.</i> <b>CCF-A.</b>
+
+7. <div class="pubtitle">WWW24</div> &nbsp; <b>LinkGuard: Link Locally Privacy-Preserving Graph Neural Networks with Integrated Denoising and Private Learning.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Ziyao Liu, Gaolei Li, Jingyu Wang, Jianhua Li. <br /> <i>Companion Proceedings of the ACM on Web Conference 2024.</i>
+
+8. <div class="pubtitle">WWW24</div> &nbsp; <b>Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining.</b> <br /> Jingyu Wang, Niantai Jing, Ziyao Liu, Jie Nie, <u><b>Yuxin Qi</b></u>, Chi-Hung Chi, Kwok-Yan Lam. <br /> <i>Companion Proceedings of the ACM on Web Conference 2024.</i>
+
+9. <div class="pubtitle">WCNC24</div> &nbsp; <b>Local Differential Private Spatio-Temporal Dynamic Graph Learning for Wireless Social Networks. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Gaolei Li, Chaofeng Zhang, Jianhua Li. <br /> <i>IEEE Wireless Communications and Networking Conference.</i> <b>CCF-C.</b>
+
+10. <div class="pubtitle">IEEE TPAMI23</div> &nbsp; <b>Blockchain Data Mining with Graph Learning: A Survey.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Hansong Xu, Mohsen Guizani. <br /> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i> <b>CCF-A.</b>
+
+11. <div class="pubtitle">IEEE SysJ23</div> &nbsp; <b>Game-Aided Blockchain Twin for Incentive and Relay-Free Model Sharing in Heterogeneous Chain-Driven Swarm Learning.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jun Wu, Yunyun Han. <br /> <i>IEEE Systems Journal.</i>
+
+12. <div class="pubtitle">ISPA23</div> &nbsp; <b>Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification. </b> <br /> Qinghua Mao, Xi Lin, Gaolei Li, Lixing Chen, Yuchen Liu, <u><b>Yuxin Qi</b></u>, Jianhua Li. <br /> <i>2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom).</i> <b>CCF-C.</b>
+
+13. <div class="pubtitle">IEEE TITS22</div> &nbsp; <b>Privacy-Preserving Cross-Area Traffic Forecasting in ITS: A Transferable Spatial-Temporal Graph Neural Network Approach.</b> <br /> <u><b>Yuxin Qi</b></u>, Jun Wu, Ali Kashif Bashir, Xi Lin, Wu Yang, Mohammad Dahman Alshehri. <br /> <i>IEEE Transactions on Intelligent Transportation Systems.</i> <b>CCF-B.</b>
+
+14. <div class="pubtitle">Preprint</div> &nbsp; <b>Differentially Private Graph Neural Network with Importance-Grained Noise Adaption. </b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jun Wu. <br /> <i>Under Review.</i>
+
+15. <div class="pubtitle">Preprint</div> &nbsp; <b>GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Qinghua Mao. <br /> <i>Under Review.</i>
+
+\* means contribution equally
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017* National Scholarship. 
+- *2018* National Scholarship.
+- *2019* National Scholarship.
+- *2020* Dean's Scholarship.
+- *2020* Outstanding Graduates.
+- *2023* Scholarship from China Scholarship Council.
+- *2023* First Class Network Security Scholarship.
+- *2024* First Class Network Security Scholarship.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2020.07 - 2020.09*, UnionPay, China.
+
