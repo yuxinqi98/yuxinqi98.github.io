@@ -79,7 +79,8 @@ My research interest focuses on data privacy, blockchain analysis, and other int
 
 \* means contribution equally
 
-# 💬 Invited Talks
+# 💬 Professional Service
+
 - *Reviewer for Journals:* IEEE TDSC, IEEE TNNLS, IEEE TITS.
 - *PC member for Conferences:* NIPS, ICML, ICLR, AAAI, ACM MM, IJCNN, ICC. 
 
