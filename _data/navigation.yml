@@ -8,12 +8,12 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+  
+  - title: "Professional Service"
+    url: "/#-professional-service"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Professional Service"
-    url: "/#-professional-service"
 
   - title: "Internships"
     url: "/#-internships"
