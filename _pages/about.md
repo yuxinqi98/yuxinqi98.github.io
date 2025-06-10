@@ -39,14 +39,12 @@ I am currently a fifth-year Ph.D. candidate at [Shanghai Jiao Tong University (S
 My research interest focuses on data privacy, blockchain analysis, and other intersections between security and machine learning. 
 
 # 📖 Educations
-
 - *2020.09 - Now*, Ph.D. Student, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. 
 - *2016.09 - 2020.06*, Computer Science, Jilin University. 
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-
 1. <div class="pubtitle">AAAI25</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>\*, Quan Zhang\*, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
 2. <div class="pubtitle">AAAI25</div> &nbsp; <b>Rethinking Pseudo-Label Guided Learning for Weakly-Supervised Temporal Action Localization from the Perspective of Noise Correction.</b> <br /> Quan Zhang\*, <u><b>Yuxin Qi</b></u>\*, Xi Tang, Rui Yuan, Xi Lin, Ke Zhang, Chun Yuan. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
@@ -80,12 +78,10 @@ My research interest focuses on data privacy, blockchain analysis, and other int
 \* means contribution equally
 
 # 💬 Professional Service
-
 - *Reviewer for Journals:* IEEE TDSC, IEEE TNNLS, IEEE TITS.
 - *PC member for Conferences:* NIPS, ICML, ICLR, AAAI, ACM MM, IJCNN, ICC. 
 
 # 🎖 Honors and Awards
-
 - *2017* National Scholarship. 
 - *2018* National Scholarship.
 - *2019* National Scholarship.
@@ -97,6 +93,5 @@ My research interest focuses on data privacy, blockchain analysis, and other int
 
 
 # 💻 Internships
-
 - *2020.07 - 2020.09*, UnionPay, China.
 
