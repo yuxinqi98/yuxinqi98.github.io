@@ -34,9 +34,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fifth-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+I am currently a fifth-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). A joint Ph.D. at Nanyang Technological University.
 
-My research interest focuses on data privacy, anomaly detection, blockchain analysis, and other intersections between security and machine learning. 
+My research interest focuses on data privacy, blockchain analysis, and other intersections between security and machine learning. 
 
 # 📖 Educations
 
@@ -78,6 +78,10 @@ My research interest focuses on data privacy, anomaly detection, blockchain anal
 15. <div class="pubtitle">Preprint</div> &nbsp; <b>GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning. </b> <br /> Jiani Zhu, Xi Lin, <u><b>Yuxin Qi</b></u>, Qinghua Mao. <br /> <i>Under Review.</i>
 
 \* means contribution equally
+
+# 💬 Invited Talks
+- *Reviewer for Journals:* IEEE TDSC, IEEE TNNLS, IEEE TITS.
+- *PC member for Conferences:* NIPS, ICML, ICLR, AAAI, ACM MM, IJCNN, ICC. 
 
 # 🎖 Honors and Awards
 
