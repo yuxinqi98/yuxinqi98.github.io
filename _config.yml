@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxin Qi\n(齐雨欣)"
-description              : "Ph.D. Candidate at School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. A joint Ph.D. at Nanyang Technological University."
+description              : "Ph.D. Candidate at School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University"
 repository               : "yuxinqi98/yuxinqi98.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=z6_AnlYAAAAJ"
   email            : "qiyuxin98@sjtu.edu.cn"
-  researchgate     : "hhttps://www.researchgate.net/profile/Qi-Yuxin-2"
+  researchgate     : "https://www.researchgate.net/profile/Qi-Yuxin-2"
   uri              :
   bitbucket        :
   codepen          :
