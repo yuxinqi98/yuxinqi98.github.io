@@ -34,13 +34,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fifth-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). A joint Ph.D. at Nanyang Technological University.
 
-My research interest focuses on data privacy, blockchain analysis, and other intersections between security and machine learning. 
+I am currently a researcher at China Telecom. I received my Ph.D. degree from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in 2025. My research interest focuses on privacy preserving and graph learning. In addition, I maintain a strong interest in the security of foundational models.
 
-# 📖 Educations
-- *2020.09 - Now*, Ph.D. Student, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. 
-- *2016.09 - 2020.06*, Computer Science, Jilin University. 
 
 <span class='anchor' id='publications'></span>
 
@@ -77,9 +73,14 @@ My research interest focuses on data privacy, blockchain analysis, and other int
 
 \* means contribution equally
 
+# 📖 Educations
+- *2020.09 - 2025.06*, Ph.D., School of Computer Science, Shanghai Jiao Tong University.
+- *2023.12 - 2024.11*, Joint Ph.D. Student, College of Computing and Data Science, Nanyang Technological University.
+- *2016.09 - 2020.06*, Bachelor, College of Computer Science and Technology, Jilin University. 
+
 # 💬 Professional Service
 - *Reviewer for Journals:* IEEE TDSC, IEEE TNNLS, IEEE TITS.
-- *PC member for Conferences:* NIPS, ICML, ICLR, AAAI, ACM MM, IJCNN, ICC. 
+- *PC member for Conferences:* NIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, IJCNN, ICC. 
 
 # 🎖 Honors and Awards
 - *2017* National Scholarship. 
