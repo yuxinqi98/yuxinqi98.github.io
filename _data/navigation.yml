@@ -6,12 +6,13 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Educations"
+    url: "/#-educations"
   
   - title: "Professional Service"
     url: "/#-professional-service"
 
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
