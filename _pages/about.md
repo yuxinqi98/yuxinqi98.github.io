@@ -41,7 +41,7 @@ I am currently a researcher at China Telecom. I received my Ph.D. degree from [S
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
-1. <div class="pubtitle">TIFS25</div> &nbsp; <b>Hiding in the Network: Attribute-Oriented Differential Privacy for Graph Neural Networks.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jiani Zhu, Ningyi Liao, Jianhua Li. <br /> <i>IEEE Transactions on Information Forensics & Security.</i> <b>CCF-A.</b>
+1. <div class="pubtitle">IEEE TIFS25</div> &nbsp; <b>Hiding in the Network: Attribute-Oriented Differential Privacy for Graph Neural Networks.</b> <br /> <u><b>Yuxin Qi</b></u>, Xi Lin, Jiani Zhu, Ningyi Liao, Jianhua Li. <br /> <i>IEEE Transactions on Information Forensics & Security.</i> <b>CCF-A.</b>
 
 2. <div class="pubtitle">AAAI25</div> &nbsp; <b>Seeing Beyond Noise: Joint Graph Structure Evaluation and Denoising for Multimodal Recommendation.</b> <br /> <u><b>Yuxin Qi</b></u>\*, Quan Zhang\*, Xi Lin, Xiu Su, Jiani Zhu, Jingyu Wang, Jianhua Li. <br /> <i>The 39th Annual AAAI Conference on Artificial Intelligence.</i> <b>CCF-A.</b>
 
